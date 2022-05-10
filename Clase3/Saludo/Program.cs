@@ -15,8 +15,11 @@ string apellido = Console.ReadLine();
 
 // Mostramos el nombre
 Console.Write("Hola " + nombre);
-Console.WriteLine(", este es mi segundo programa.");
+Console.WriteLine(", este es mi segundo programa."); 
+                                                   
+                                                    
 
 Console.WriteLine("Pulse una tecla para finalizar.");
-Console.ReadKey();
+Console.ReadKey();                                   
+
 
