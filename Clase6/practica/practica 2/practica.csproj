@@ -3,13 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>ejercicio_de_clases</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Include="D:\2.Curso .Net\Repo .Net 2022\Clase6\practica\practica 6.cs" Link="practica 6.cs" />
-  </ItemGroup>
 
 </Project>
