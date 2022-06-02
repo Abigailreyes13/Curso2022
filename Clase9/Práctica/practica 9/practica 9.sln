@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica 9", "practica 9\practica 9.csproj", "{D42B27A6-019B-4409-B0B5-79E7BAD7221E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42B27A6-019B-4409-B0B5-79E7BAD7221E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42B27A6-019B-4409-B0B5-79E7BAD7221E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42B27A6-019B-4409-B0B5-79E7BAD7221E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42B27A6-019B-4409-B0B5-79E7BAD7221E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0D81E9-B77A-469A-B585-865EB6CF374A}
+	EndGlobalSection
+EndGlobal
